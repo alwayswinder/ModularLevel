@@ -1,6 +1,10 @@
 /Content/Orasot_Bundle
-
-
+/Content/__ExternalActors__/ThirdPerson/
+/Content/__ExternalObjects__/ThirdPerson/
+/Content/Characters/
+/Content/Input/
+/Content/LevelPrototyping/
+/Content/ThirdPerson/
 
 # Visual Studio 2015 user specific files
 .vs/
